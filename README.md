@@ -84,7 +84,7 @@ I’m a **passionate**, **active** and **creative** person who specializes in bu
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hassen-se"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/Zaamb55"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://x.com/ahmedhassen101"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/share/1aA3GFcYMv/"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/fep1WsG.png"/></a>
 </p>
