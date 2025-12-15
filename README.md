@@ -13,7 +13,7 @@
 
 ---
 
-I’m a **passionate**, **active** and **creative** person who specializes in building robust, scalable web applications using the **MERN stack**. I have a growing interest in **technology management**, **team leadership**, and delivering software solutions that make an impact.
+I’m a **passionate**, **active** and **creative** person who specializes in building robust, scalable web applications working with modern tools like **Laravel, React, Node.js, MySQL, Git, and Docker**, and constantly improving my development workflow.. I have a growing interest in **technology management**, **team leadership**, and delivering software solutions that make an impact.
 
 ---
 
@@ -96,11 +96,9 @@ I’m a **passionate**, **active** and **creative** person who specializes in bu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmedhassen01&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
 </p>
-<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedhassen01&theme=radical" alt="Ahmed's GitHub streak" />
 </p>
-### 🚀 Let's Build the Future
-> *"Building web experiences, managing tech strategies, and always pushing boundaries."*
+<!-- ### 🚀 Let's Build Something Amazing
+> *“Coding with purpose, building with passion, and always learning.”* -->
 
--->
