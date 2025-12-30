@@ -88,17 +88,14 @@ I’m a **passionate**, **active** and **creative** person who specializes in bu
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/share/1aA3GFcYMv/"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/fep1WsG.png"/></a>
 </p>
-
----
-
+<!--
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmedhassen01&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedhassen01&theme=radical" alt="Ahmed's GitHub streak" />
 </p>
-<!-- ### 🚀 Let's Build Something Amazing
+ ### 🚀 Let's Build Something Amazing
 > *“Coding with purpose, building with passion, and always learning.”* -->
 
